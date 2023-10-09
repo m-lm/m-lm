@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi.
+
+# I'm a computer science student at the University of Arkansas interested in learning more about back-end and data-oriented software solutions, with a burgeoning interest in audio applications.
 
 <!--
 **m-lm/m-lm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
