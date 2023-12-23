@@ -1,4 +1,4 @@
-# Hi there!
+# Hello there.
 
 I'm a computer science student at the University of Arkansas.
 
