@@ -1,6 +1,8 @@
-# Hello there.
+# Hello!
 
 I'm a computer science student at the University of Arkansas.
+
+Currently working on Minmath, a minimalist mental math site; data analysis of the Wheel of Time book series; and Bookspy, an ebook sale tracker.
 
 <!--
 **m-lm/m-lm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
